@@ -110,7 +110,7 @@ This project helped in understanding:
 
 ## 👩‍💻 Developer
 
-**Nifty Rose Mathew**
+**Jishnu M S**
 
 B.Tech Computer Science & Engineering
 
